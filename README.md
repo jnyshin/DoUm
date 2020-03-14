@@ -12,6 +12,6 @@ Choose a program/application you want to learn. If you are ready, let's get star
 3. Our product is a tutorial website. Users can choose which program or application they want to learn and they can see very detailed instruction. The instructions will include screenshot and diagrams to help users to keep track on, and there will be a pop-up dictionary section incase of users having trouble with understanding some vocabularies. This website is unique because of its accesibility. It only requires users to connect on the internet and open a web browser. 
 
 4. 
-1) Ask a friend: This is not professional. Your friend can suggest a look that is not your taste. Also, it is difficult to ask every time for your friend to help you out.
-2) Professional Coordinator: It is expensive and hard to access.
-3) SNS such as Instagram or Pinterest: There are too many ads.
+1) Ask younger family members: It is hard for the family members to explain by a call or message because they are unable to see the screen. Thus, they might not know what the exact problem is, or it can be hard to explain at the senior's level of understanding.
+2) IT teaching classes in community centers : The classes might not teach what the seniors want to know and they have to wait until class to find out the solutions. Also, there may be no community centers near by so it can be hard to access.
+3) Q&A page: It is difficult to find for seniors and there can be no detailed explanations including screen shots.

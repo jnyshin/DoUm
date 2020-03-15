@@ -15,3 +15,8 @@ Choose a program/application you want to learn. If you are ready, let's get star
 1) Ask younger family members: It is hard for the family members to explain by a call or message because they are unable to see the screen. Thus, they might not know what the exact problem is, or it can be hard to explain at the senior's level of understanding.
 2) IT teaching classes in community centers : The classes might not teach what the seniors want to know and they have to wait until class to find out the solutions. Also, there may be no community centers near by so it can be hard to access.
 3) Q&A page: It is difficult to find for seniors and there can be no detailed explanations including screen shots.
+
+5. 
+1) Ask 60s and 70s to know their difficulties when they are using applications or websites.
+2) Previously, ask 20s or 10s (who are close to their grandparents and have experience to teach them the way to use applications or websites.) about the applications or websites that grandparents often found difficulties.
+3) Ask the people who work in Senior Citizen Welfare Hall.

@@ -2,7 +2,7 @@
 
 ## Team members
   Yooha Bae(yooha.bae@stonybrook.edu)
-  Yejin Shin(yejin.shin@stonybrook.edu)
+  \nYejin Shin(yejin.shin@stonybrook.edu)
   Jeongmin Yoo(jeongmin.yoo.1@stonybrook.edu)
   
 ## Target Users

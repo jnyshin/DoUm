@@ -1,7 +1,7 @@
 # DoUm
 
 ## Team members
-  Yooha Bae(yooha.bae@stonybrook.edu)\Yejin Shin(yejin.shin@stonybrook.edu)\Jeongmin Yoo(jeongmin.yoo.1@stonybrook.edu)
+  Yooha Bae(yooha.bae@stonybrook.edu)<br />Yejin Shin(yejin.shin@stonybrook.edu)<br />Jeongmin Yoo(jeongmin.yoo.1@stonybrook.edu)
   
 ## Target Users
 Our target users are Korean seniors over the age 75 years old who are neglected from internet technology; especially having difficulty in using applications on smartphones.

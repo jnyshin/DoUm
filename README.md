@@ -1,15 +1,18 @@
 # DoUm
-Hello, what can I help you?
 
-Choose a program/application you want to learn. If you are ready, let's get started.
-
-1. Yooha Bae(yooha.bae@stonybrook.edu), 
-  Yejin Shin(yejin.shin@stonybrook.edu), 
-  Jeongmin Yoo(jeongmin.yoo.1@stonybrook.edu
+## Team members
+  Yooha Bae(yooha.bae@stonybrook.edu)
+  Yejin Shin(yejin.shin@stonybrook.edu)
+  Jeongmin Yoo(jeongmin.yoo.1@stonybrook.edu)
   
-2. Target User: Seniors (age above 60) 
+## Target Users
+  Our target users are Korean seniors over the age 75 years old who are neglected from internet technology.
 
-3. Our product is a tutorial website. Users can choose which program or application they want to learn and they can see very detailed instruction. The instructions will include screenshot and diagrams to help users to keep track on, and there will be a pop-up dictionary section incase of users having trouble with understanding some vocabularies. This website is unique because of its accesibility. It only requires users to connect on the internet and open a web browser. 
+## The problem
+
+The problem your product will be solving. Explain how your solution will be unique or
+different than existing solutions.
+Our product is a tutorial website. Users can choose which program or application they want to learn and they can see very detailed instruction. The instructions will include screenshot and diagrams to help users to keep track on, and there will be a pop-up dictionary section incase of users having trouble with understanding some vocabularies. This website is unique because of its accesibility. It only requires users to connect on the internet and open a web browser. 
 
 4. 
 1) Ask younger family members: It is hard for the family members to explain by a call or message because they are unable to see the screen. Thus, they might not know what the exact problem is, or it can be hard to explain at the senior's level of understanding.

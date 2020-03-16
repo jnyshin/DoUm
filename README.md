@@ -21,6 +21,6 @@ Our product is a tutorial website. Users can choose which program or application
 3) Q&A page: It is difficult to find for seniors and there can be no detailed explanations including screen shots.
 
 ## Plan of Research
-### Ask 60s and 70s to know their difficulties when they are using applications or websites.
+#### Ask 60s and 70s to know their difficulties when they are using applications or websites.
 2) Previously, ask 20s or 10s (who are close to their grandparents and have experience to teach them the way to use applications or websites.) about the applications or websites that grandparents often found difficulties.
 3) Ask the people who work in Senior Citizen Welfare Hall.

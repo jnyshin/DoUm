@@ -25,7 +25,7 @@ The classes might not teach what the seniors want to know and they have to wait 
 It is difficult to find for seniors and there can be no detailed explanations including screen shots.
 
 ### Existing Tutorial Sites
-Although there are existing tutorial sites that explain the use of applications. However, their are no websites where it shows how to use applications **Korean** seniors frequently use. Also, the UI is not targeted for the seniors. We plan on increasing the font size so that seniors can read easily and also including more images then words for easier understanding.
+Although there are existing tutorial sites that explain the use of applications. However, their are no websites where it shows how to use applications **Korean** seniors frequently use. Also, the UI is not targeted for the seniors. We plan on increasing the font size so that seniors can read easily and also including more images than words for easier understanding.
 
 ## Plan of Research
 

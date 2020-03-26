@@ -4,7 +4,7 @@
   Yooha Bae(yooha.bae@stonybrook.edu)<br />Yejin Shin(yejin.shin@stonybrook.edu)<br />Jeongmin Yoo(jeongmin.yoo.1@stonybrook.edu)
   
 ## Target Users
-Our target users are Korean seniors over the age 75 years old who are neglected from internet technology; especially having difficulty in using applications on smartphones.
+Our target users are Korean seniors over the age 70 years old who are neglected from internet technology; especially having difficulty in using applications on smartphones.
 
 ## The Problem
 Our product is a tutorial website. Users can choose which applications they want to learn and they can see very detailed instructions. The instructions will include screenshot and diagrams to help users to keep track on, and there will be a pop-up dictionary section incase of users having trouble with understanding some vocabularies. This website is unique because of its accesibility. It only requires users to connect on the internet and open a web browser. It is also unique because it deals with applications that **Korean** seniors use frequently and have difficulty using.

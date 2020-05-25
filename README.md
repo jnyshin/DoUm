@@ -1,6 +1,7 @@
 # DoUm
 ## Website Link
   https://doum-40a54c.webflow.io/
+  Since our product is a mobile website, on PC please view this in Google Chrome -> View -> Developer -> Developer Tools -> toggle device tool bar. On phone device, this link should work fine. 
 
 ## Team members
   Yooha Bae(yooha.bae@stonybrook.edu)<br />Yejin Shin(yejin.shin@stonybrook.edu)<br />Jeongmin Yoo(jeongmin.yoo.1@stonybrook.edu)
